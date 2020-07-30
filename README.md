@@ -11,4 +11,6 @@ Sample website with plenty of files for demos
 indexing to keep 
 once again modifying
 
-I lOVE Everything smile please 
+I lOVE Everything smile please
+
+how to learn things faster

@@ -1,0 +1,28 @@
+[33mcommit 7b937dc36f60fe72e0bc054a2f25bbc90102d7c0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Aiswariya <aiswariya.amiya@gmail.com>
+Date:   Wed Jul 29 15:44:37 2020 +0530
+
+    delteing recurrsivly
+
+[1mdiff --git a/level11/level11.file.txt b/level11/level11.file.txt[m
+[1mdeleted file mode 100644[m
+[1mindex d2fceba..0000000[m
+[1m--- a/level11/level11.file.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1,2 +0,0 @@[m
+[31m- newone for recurrsive[m
+[31m- new text[m
+[1mdiff --git a/level11/level12/level12.newfile.txt b/level11/level12/level12.newfile.txt[m
+[1mdeleted file mode 100644[m
+[1mindex be94510..0000000[m
+[1m--- a/level11/level12/level12.newfile.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m- two more[m
+[1mdiff --git a/level11/level12/level13/level13.newfile.txt b/level11/level12/level13/level13.newfile.txt[m
+[1mdeleted file mode 100644[m
+[1mindex f445aea..0000000[m
+[1m--- a/level11/level12/level13/level13.newfile.txt[m
+[1m+++ /dev/null[m
+[36m@@ -1 +0,0 @@[m
+[31m-3rd time [m

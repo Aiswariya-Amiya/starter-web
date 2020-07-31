@@ -8,6 +8,7 @@
 # THANKS
 
     Amiya Nanda
+    This is for learning purpose only
 
 # TECHNOLOGY COLOPHON
 

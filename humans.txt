@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Amiya Nanda
 
 # TECHNOLOGY COLOPHON
 
